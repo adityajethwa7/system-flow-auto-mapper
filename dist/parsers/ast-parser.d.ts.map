@@ -1,0 +1,1 @@
+{"version":3,"file":"ast-parser.d.ts","sourceRoot":"","sources":["../../src/parsers/ast-parser.ts"],"names":[],"mappings":"AAGA,qBAAa,SAAS;IACpB,SAAS,CAAC,IAAI,EAAE,MAAM,EAAE,QAAQ,GAAE,MAAqB,GAAG,GAAG;IAkB7D,OAAO,CAAC,gBAAgB;IA+BxB,gBAAgB,CAAC,GAAG,EAAE,GAAG,GAAG,GAAG,EAAE;CAwClC"}
