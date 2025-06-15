@@ -1,0 +1,11 @@
+
+{
+ "mcpServers": {
+   "system-flow-auto-mapper": {
+     "command": "node",
+      "args": ["/Library/aditya/Hackathons/TRAE-AI/system-flow-auto-mapper/dist/index.js"],
+     "env": {}
+    }
+}
+}
+
